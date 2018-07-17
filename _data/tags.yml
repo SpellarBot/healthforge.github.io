@@ -4,7 +4,7 @@
 - slug: APIs
   system: true
   name: APIs
-- slog: coffee
+- slug: coffee
   system: true
   name: Coffee Machine
 - slug: maintenance
