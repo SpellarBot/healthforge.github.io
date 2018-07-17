@@ -1,9 +1,12 @@
-- slug: apps
+- slug: Auth
   system: true
-  name: Apps and Runtime
-- slug: data
+  name: Auth
+- slug: APIs
   system: true
-  name: Data Services
+  name: APIs
+- slog: coffee
+  system: true
+  name: Coffee Machine
 - slug: maintenance
   scheduled: true
   name: Scheduled Maintenance
