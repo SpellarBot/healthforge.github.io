@@ -1,9 +1,9 @@
-url: https://staticus.narro.co
-author: NarroApp
-email: support@narro.co
-title: Staticus
-description: The status page for the Narro API and services
-homepage: https://www.narro.co
+url: https://status.healthforge.io
+author: Healthforge
+email: minion+status@healthforge.io
+title: Healthforge
+description: The status page for Healthforge APIs and services
+homepage: https://healthforge.io
 
 permalink: pretty
 uptime_days: 60
